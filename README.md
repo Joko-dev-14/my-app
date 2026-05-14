@@ -1,7 +1,5 @@
 # my-app - # Financial App Store — Frontend Test
 
-This template should help get you started developing with Vue 3 in Vite.
-
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
@@ -51,13 +49,13 @@ besides the provided **SVG assets**
 - Add working search
 - Add working Sort button
 - Mobile friendly sidebar - filters
-- Atomic Design folder structure - For Design/Engineer single source of truth - though not needed here because it's a small app
+- Atomic Design folder structure - For Design/Engineer single source of truth -  though not needed here because it's a small app
 - Unit tests
 - Improve Accessibility
 - Performance optimisation
 - Build in React
 - BEM
-- add more comments for other devs to understand code
-- esLint
-- error handling
+- Add more comments for other devs to understand the code
+- EsLint
+- Error handling
 # my-app
