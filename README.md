@@ -58,4 +58,3 @@ besides the provided **SVG assets**
 - Add more comments for other devs to understand the code
 - EsLint
 - Error handling
-# my-app
