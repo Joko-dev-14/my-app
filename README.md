@@ -37,11 +37,11 @@ besides the provided **SVG assets**
 - ✅ Visible and intuitive filter interactions
 - ✅ Readable, well-structured code
 - ✅ Attention to small details — spacing, alignment, hover states
-- ✅ Mobile-friendly layout - mostly done - just havent added the filter burger
+- ✅ Mobile-friendly layout - mostly done - just haven't added the filter burger icon/section on mobile as I ran out of time
 
 ## Additional features
 
-- Optimised the svg icons
+- ✅ Optimised the svg icons
 
 ## If I had more time
 
