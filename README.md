@@ -18,7 +18,7 @@ Open [http://localhost:5174]
 
 ## Tech Stack
 
-- Vue used as more comfortable in Vue than React
+- Vue - as more comfortable in Vue than React
 - Styling - Tailwind - to help save time
 
 ## Icons & assets
@@ -28,7 +28,8 @@ besides the provided **SVG assets**
 
 ## Use of AI
 
-- debugging, styling, doing small tweaks to the styles to match the design, for the Filter functionality because i didn't have enough time
+- debugging, styling, doing small tweaks to the styles to match the design
+- Filter functionality, because I didn't have enough time
 
 ## What we're looking for
 
@@ -41,20 +42,20 @@ besides the provided **SVG assets**
 
 ## Additional features
 
-- ✅ Optimised the svg icons
+- ✅ Optimised the SVG icons
 
 ## If I had more time
 
-- Wire up the filters so they actually filter the data
+- Add the clear all Filters functionality
 - Add working search
 - Add working Sort button
-- Mobile friendly sidebar - filters
+- Mobile-friendly sidebar - filters
 - Atomic Design folder structure - For Design/Engineer single source of truth -  though not needed here because it's a small app
 - Unit tests
 - Improve Accessibility
 - Performance optimisation
 - Build in React
 - BEM
-- Add more comments for other devs to understand the code
+- Add comments to understand the code
 - EsLint
 - Error handling
