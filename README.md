@@ -1,4 +1,4 @@
-# my-app - # Financial App Store — Frontend Test
+# my-app - # Financial App Store — Frontend Take Home Test
 
 ## Recommended IDE Setup
 
@@ -26,9 +26,9 @@ Open [http://localhost:5174]
 Kept the icons consistent by using **Material Icons** for all icons
 besides the provided **SVG assets**
 
-## Use of AI
+## Use of AI to help save time
 
-- debugging, styling, doing small tweaks to the styles to match the design
+- For scaffolding, debugging, styling, and doing small tweaks to the styles to match the design
 - Filter functionality, because I didn't have enough time
 
 ## What we're looking for
@@ -56,6 +56,6 @@ besides the provided **SVG assets**
 - Performance optimisation
 - Build in React
 - BEM
-- Add comments to understand the code
+- Add comments to help other developers understand the code
 - EsLint
 - Error handling
