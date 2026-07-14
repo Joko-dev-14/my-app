@@ -14,7 +14,12 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5174]
+Open [http://localhost:5173]
+
+## Screenshots of the finished app
+
+![Desktop](./screenshots/desktop.png)
+![Mobile](./screenshots/mobile.png)
 
 ## Tech Stack
 
