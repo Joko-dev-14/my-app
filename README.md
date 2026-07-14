@@ -18,7 +18,11 @@ Open [http://localhost:5173]
 
 ## Screenshots of the finished app
 
+- Desktop
+
 ![Desktop](./screenshots/desktop.png)
+
+- Mobile
 
 ![Mobile](./screenshots/mobile.png)
 
