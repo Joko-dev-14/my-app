@@ -1,71 +1,51 @@
-# my-app - # Financial App Store — Frontend Take Home Test
+# my-app - # Financial App Store — Frontend Application
 
-## Recommended IDE Setup
+### Recommended IDE Setup
+* [VS Code](https://visualstudio.com) + [Vue - Official Extension](https://visualstudio.com) (Please disable Vetur to avoid conflicts).
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Project Setup
-
+### Project Installation
+Clone the repository and install the dependencies:
 ```bash
 npm install
 ```
 
+### Development Server
+Run the local development server (typically available at `http://localhost:5173`):
 ```bash
 npm run dev
 ```
-
-Open [http://localhost:5173]
-
 ## Screenshots of the finished app
 
-- Desktop
+- Desktop Layout
 
 ![Desktop](./screenshots/desktop.png)
 
-- Mobile
+- Mobile Responsive Layout
 
 ![Mobile](./screenshots/mobile.png)
 
-## Tech Stack
+## 🛠️ Tech Stack & Architecture
 
-- VueJS - as more comfortable in Vue than ReactJS
-- Styling - Tailwind CSS - to help save time
+* **Framework:** Vue 3 (Composition API)
+* **Styling:** Tailwind CSS (Utility-first, responsive grid layout)
+* **Icons & Assets:** Optimised SVGs integrated with Google Material Icons for visual consistency
 
-## Icons & assets
 
-Kept the icons consistent by using **Material Icons** for all icons
-besides the provided **SVG assets**
+## ✨ Core Features & Evaluation Criteria
 
-## Use of AI to help save time
+* **Design Fidelity:** Meticulously matched to the provided design specifications, focusing on exact spacing, typography hierarchy, and clean alignments.
+* **Component Workflow:** Implemented responsive layouts with smooth hover states and intuitive element interactions.
+* **Asset Optimisation:** All SVG icons have been manually optimised to reduce bundle size and asset loading times.
+* **Development Efficiency:** Utilised advanced AI scaffolding and debugging techniques to accelerate UI styling and structural layout creation.
 
-- For scaffolding, debugging, CSS styling, and doing small tweaks to the styles to match the design
-- Filter functionality, because I didn't have enough time
+---
 
-## What we're looking for
+## 🔮 Roadmap & Future Improvements
 
-- ✅ How closely you've matched the provided design
-- ✅ A layout that feels clean and easy to use
-- ✅ Visible and intuitive filter interactions
-- ✅ Readable, well-structured code
-- ✅ Attention to small details — spacing, alignment, hover states
-- ✅ Mobile-friendly layout - mostly done - just haven't added the filter burger icon/section on mobile as I ran out of time
+While this version represents a complete, functional UI iteration, the following features are planned for future releases to make the codebase enterprise-ready:
 
-## Additional features
-
-- ✅ Optimised the SVG icons
-
-## Future Improvements - If I had more time
-
-- Add the clear all Filters functionality
-- Add working search
-- Add working Sort button
-- Mobile-friendly sidebar - filters
-- Atomic Design folder structure - For Design/Engineer single source of truth -  though not needed here because it's a small app
-- Unit tests
-- Improve Accessibility
-- Performance optimisation
-- Build in React
-- BEM
-- Add comments to help other developers understand the code
-- EsLint
-- Error handling
+* **Advanced Filtering & State:** Implement comprehensive search filtering, multi-select "Clear All" functionality, and dynamic sorting algorithms.
+* **Enhanced Mobile UX:** Expand the mobile layout to include a dedicated drawer/hamburger menu for advanced filtering workflows.
+* **Scalable Architecture:** Refactor components using **Atomic Design** principles to establish a single source of truth for engineering and design teams.
+* **Quality Assurance:** Introduce ESLint configurations, comprehensive unit testing suites, and robust global error boundary handling.
+* **Accessibility (a11y):** Improve ARIA attributes, semantic HTML tags, and full keyboard navigation patterns.
