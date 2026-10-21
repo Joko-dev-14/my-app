@@ -28,8 +28,8 @@ Open [http://localhost:5173]
 
 ## Tech Stack
 
-- Vue - as more comfortable in Vue than React
-- Styling - Tailwind - to help save time
+- VueJS - as more comfortable in Vue than ReactJS
+- Styling - Tailwind CSS - to help save time
 
 ## Icons & assets
 
@@ -38,7 +38,7 @@ besides the provided **SVG assets**
 
 ## Use of AI to help save time
 
-- For scaffolding, debugging, styling, and doing small tweaks to the styles to match the design
+- For scaffolding, debugging, CSS styling, and doing small tweaks to the styles to match the design
 - Filter functionality, because I didn't have enough time
 
 ## What we're looking for
@@ -54,7 +54,7 @@ besides the provided **SVG assets**
 
 - ✅ Optimised the SVG icons
 
-## If I had more time
+## Future Improvements - If I had more time
 
 - Add the clear all Filters functionality
 - Add working search
